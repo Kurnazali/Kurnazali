@@ -1,10 +1,9 @@
 ## Hi, I'm Ali Yahya Mutlu | Merhaba, Ben Ali Yahya Mutlu
 
-🥇Merhabalar, ben Ali Yahya Mutlu.  
-🥈İstanbul Gelişim Üniversitesinde 2. Sınıf Mekatronik öğrencisiyim.  
-🥉Yazılım, kod yazma, otonom sistemler ile ilgilinmeyi severim.   
+👋 Merhaba, ben Ali Yahya Mutlu  
 
-
-🥇Hello, my name is Ali Yahya Mutlu.  
-🥈I am a second-year Mechatronics student at Istanbul Gelisim University.  
-🥉I enjoy working with software, coding, and autonomous systems.  
+🎓 İstanbul Gelişim Üniversitesi – Mekatronik Mühendisliği (2. Sınıf)  
+🤖 İlgi alanlarım: Yazılım geliştirme, gömülü sistemler ve otonom sistemler  
+💻 C / C++ / Arduino / ESP32 / Sensör & Aktüatör projeleri  
+🚀 Amacım: Otonom ve akıllı sistemler geliştirmek
+  
